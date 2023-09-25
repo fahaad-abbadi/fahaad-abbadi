@@ -11,8 +11,9 @@ In this repository, you'll discover a treasure trove of projects, each reflectin
 
 
 ## What am I doing?
-I am on the journey to learn stuff, make projects, do some basics stuff again and also do coding problems ig. Here's a snapshot of my GitHub activity:
+I am on the journey to learn stuff, make projects, do some basics stuff again and also do coding problems ig. 
 
+##Overall Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&count_private=true&hide=contribs)
 
 Feel free to explore my projects and get in touch if you'd like to collaborate or have any questions!
