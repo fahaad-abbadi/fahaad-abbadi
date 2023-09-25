@@ -1,6 +1,6 @@
 # Welcome to My GitHub Repository!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&count_private=true&hide=contribs)
 
 ## About Me
 
