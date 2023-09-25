@@ -11,8 +11,7 @@ Hey there! 👋 I'm Fahaad Abbadi, and I'm passionate about solving complex prob
 In this repository, you'll discover a treasure trove of projects, each reflecting my journey, skills, and insights. These aren't just pieces of code; they're solutions crafted with precision to tackle real-world challenges.
 
 
-## How I Crack Product-Based Companies
-
+## What am I doing?
 I am on the journey to learn stuff, make projects, do some basics stuff again and also do coding problems ig. Here's a snapshot of my GitHub activity:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)
