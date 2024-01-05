@@ -1,13 +1,6 @@
-# Welcome to My GitHub Repository!
-
-
 ## About Me
 
-Hey there! 👋 I'm Fahaad Abbadi, and I'm passionate about solving complex problems in the world of technology. I've spent years honing my skills and gaining experience in various domains.
-
-# Welcome to [Your Name]'s GitHub Profile! 🚀
-
-Hi there! 👋 I'm a passionate student who loves programming and solving problems on LeetCode. My code is a blend of objective precision and artistic flair, just like the aesthetic art I explore on Pinterest.
+Hey there! I am Fahaad, and I am passionate about solving complex problems in the world of technology. I've spent years honing my skills and gaining experience in various domains.
 
 ## 🛠️ Technologies & Tools I use-
 
