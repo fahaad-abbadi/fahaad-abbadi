@@ -3,17 +3,16 @@
 Hey there! I am Fahaad, and I am passionate about solving complex problems in the world of technology. I've spent years honing my skills and gaining experience in various domains.
 
 ## 🛠️ Technologies & Tools
-
-[![Java](https://camo.githubusercontent.com/your-java-logo-link)](link-to-your-java-repo)
-[![JavaScript](https://camo.githubusercontent.com/your-javascript-logo-link)](link-to-your-js-repo)
-[![HTML](https://camo.githubusercontent.com/your-html-logo-link)](link-to-your-html-repo)
-[![CSS](https://camo.githubusercontent.com/your-css-logo-link)](link-to-your-css-repo)
-[![Spring](https://camo.githubusercontent.com/your-spring-logo-link)](link-to-your-spring-repo)
-[![Python](https://camo.githubusercontent.com/your-python-logo-link)](link-to-your-python-repo)
-[![ReactJS](https://camo.githubusercontent.com/your-react-logo-link)](link-to-your-react-repo)
-[![Firebase](https://camo.githubusercontent.com/your-firebase-logo-link)](link-to-your-firebase-repo)
-[![Git](https://camo.githubusercontent.com/your-git-logo-link)](link-to-your-git-repo)
-[![GitHub](https://camo.githubusercontent.com/your-github-logo-link)](link-to-your-github-repo)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](link-to-your-java-repo)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](link-to-your-js-repo)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](link-to-your-html-repo)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](link-to-your-css-repo)
+[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)](link-to-your-spring-repo)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](link-to-your-python-repo)
+[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)](link-to-your-react-repo)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](link-to-your-firebase-repo)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](link-to-your-git-repo)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](link-to-your-github-repo)
 
 
 ## 📊 GitHub Stats
