@@ -24,9 +24,9 @@ Hi there! 👋 I'm a passionate student who loves programming and solving proble
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&theme=radical)
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahaad-abbadi&theme=dark)
 
 ## 🌐 Connect with Me
 
