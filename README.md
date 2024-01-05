@@ -34,11 +34,4 @@ Hi there! 👋 I'm a passionate student who loves programming and solving proble
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-profile)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](your-instagram-profile)
 
-Feel free to explore my repositories, and don't hesitate to reach out! 😊
-
-
-## Overall Stats :
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&count_private=true&hide=contribs)
-
-Feel free to explore my projects and get in touch if you'd like to collaborate or have any questions!
+Feel free to explore my repositories, and don't hesitate to reach out! 
