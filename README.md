@@ -25,5 +25,5 @@ Hey there! I am Fahaad, and I am passionate about solving complex problems in th
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](fahaad-al-abbadi)-
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupkjha2601&label=Profile%20views&color=0e75b6&style=flat" alt="anupkjha2601" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahaad-abbadi&label=Profile%20views&color=0e75b6&style=flat" alt="anupkjha2601" /> </p>
 Feel free to explore my repositories, and don't hesitate to reach out! 
