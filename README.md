@@ -30,6 +30,8 @@ Hey there! I am Fahaad, and I am passionate about solving complex problems in th
 
 ## 🌐 Connect with Me
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo"  />
+  <img width="12" />
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](fahaad-al-abbadi)-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahaad-abbadi&label=Profile%20views&color=0e75b6&style=flat" alt="anupkjha2601" /> </p>
