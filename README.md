@@ -20,16 +20,27 @@ Hey there! I am Fahaad, and I am passionate about solving complex problems in th
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
 </div>
 
 ### GitHub Stats
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahaad-abbadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
-  
-  <img src="https://streak-stats.demolab.com?user=fahaad-abbadi&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&theme=tokyonight" alt="fahaad-abbadi" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&theme=tokyonight&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" alt="fahaad-abbadi" height="150" />
 </div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://streak-stats.demolab.com?user=fahaad-abbadi&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
 
 
 ## 🌐 Connect with Me
