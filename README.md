@@ -29,10 +29,14 @@ Hey there! I am Fahaad, and I am passionate about solving complex problems in th
 </div>
 
 ## 🌐 Connect with Me
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo"  />
-  <img width="12" />
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](fahaad-al-abbadi)-
+<div align="left">
+  <a href="https://linkedin.com/in/fahaad-abbadi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:al.fahaadabbadi@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahaad-abbadi&label=Profile%20views&color=0e75b6&style=flat" alt="anupkjha2601" /> </p>
 Feel free to explore my repositories, and don't hesitate to reach out! 
