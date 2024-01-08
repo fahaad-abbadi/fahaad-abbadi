@@ -1,7 +1,7 @@
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=40px> About Me
+## About Me
 
 <div align="center">
-  <p>I am Fahaad, and I am passionate about solving complex problems in the world of technology. I am trying to better developer.</p> 
+  <p>Hey there, I am Fahaad navigating the tech cosmos, diving deep into problem-solving, and on a mission to level up my dev game.</p> 
 </div>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Technologies & Tools
@@ -44,9 +44,9 @@
 ## <img src = "https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" height = 41px>&nbsp;&nbsp; Recent GitHub Activity
 <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=fahaad-abbadi&theme=tokyo-night&area=true&radius=14&hide_border=true&height=350&point=38BDAE&title_color=38BDAE" alt = "Activity Graph") </p>
 
-## <img src="https://media1.tenor.com/m/8QmnopMNjrwAAAAC/chat.gif" height=41px> Connect with Me
+## Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/fahaad-abbadi" target="_blank">
+  <a href="https://linkedin.com/in/fahaad-al-abbadi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:al.fahaadabbadi@gmail.com" target="_blank">
