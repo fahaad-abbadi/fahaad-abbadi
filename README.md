@@ -33,8 +33,8 @@
 
 ## <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" height="41" alt="GIF"> GitHub Stats
 <div display="flex" justify-content="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahaad-abbadi&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=tokyonight&hide_border=true&border_radius=10" align="center" height="200" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&theme=tokyonight&hide_title=false&card_width=450&langs_count=5&hide_border=true&border_radius=10" alt="fahaad-abbadi" align="center" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahaad-abbadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&border_radius=10" align="center" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&theme=tokyonight&hide_title=false&card_width=320&langs_count=5&hide_border=true&border_radius=10" alt="fahaad-abbadi" align="center" height="200" />
 </div>
 
 <div align="center">
