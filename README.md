@@ -1,9 +1,11 @@
-## About Me
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=40px> About Me
 
-Hey there! I am Fahaad, and I am passionate about solving complex problems in the world of technology. I've spent years honing my skills and gaining experience in various domains.
+<div align="center">
+  <p>I am Fahaad, and I am passionate about solving complex problems in the world of technology. I am trying to better developer.</p> 
+</div>
 
-## 🛠️ Technologies & Tools
-<div align="left">
+## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Technologies & Tools
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -16,7 +18,7 @@ Hey there! I am Fahaad, and I am passionate about solving complex problems in th
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -26,25 +28,24 @@ Hey there! I am Fahaad, and I am passionate about solving complex problems in th
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
+  <br>
 </div>
 
-### GitHub Stats
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahaad-abbadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&theme=tokyonight&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" alt="fahaad-abbadi" height="150" />
+## <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" height="41" alt="GIF"> GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahaad-abbadi&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=tokyonight&hide_border=true&border_radius=10" align="center" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahaad-abbadi&show_icons=true&theme=tokyonight&hide_title=false&card_width=450&langs_count=5&hide_border=true&border_radius=10" alt="fahaad-abbadi" align="center" height="200" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://streak-stats.demolab.com?user=fahaad-abbadi&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fahaad-abbadi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&card_width=1000" height="200" alt="streak graph" align="center"/>
 </div>
 
+## <img src = "https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" height = 41px>&nbsp;&nbsp; Recent GitHub Activity
+<p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=fahaad-abbadi&theme=tokyo-night&area=true&radius=14&hide_border=true&height=350&point=38BDAE&title_color=38BDAE" alt = "Activity Graph") </p>
 
-
-## 🌐 Connect with Me
-<div align="left">
+## <img src="https://media1.tenor.com/m/8QmnopMNjrwAAAAC/chat.gif" height=41px> Connect with Me
+<div align="center">
   <a href="https://linkedin.com/in/fahaad-abbadi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
@@ -53,5 +54,15 @@ Hey there! I am Fahaad, and I am passionate about solving complex problems in th
   </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahaad-abbadi&label=Profile%20views&color=0e75b6&style=flat" alt="anupkjha2601" /> </p>
-Feel free to explore my repositories, and don't hesitate to reach out! 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=fahaad-abbadi&label=Profile%20views&color=70a5fd&style=for-the-badge"
+    alt="fahaad-abbadi"
+    style="border-radius: 10px; outline: none;"
+  />
+</p>
+
+
+<div align="center">
+  <p>Feel free to explore my repositories, and don't hesitate to reach out! </p>
+</div>
